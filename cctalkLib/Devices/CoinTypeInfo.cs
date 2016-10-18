@@ -4,7 +4,10 @@ namespace dk.CctalkLib.Devices
 {
 	public class CoinTypeInfo
 	{
-		public CoinTypeInfo(String name, Decimal value)
+
+        //coin or bill contains two values such as name and the decimal 
+       
+        public CoinTypeInfo(String name, Decimal value)
 		{
 			Name = name;
 			Value = value;
