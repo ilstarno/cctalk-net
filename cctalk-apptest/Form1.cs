@@ -448,6 +448,6 @@ namespace cctalk_apptest
 				_billValidator.PollNow();
 		}
 
-
-	}
+        
+    }
 }
